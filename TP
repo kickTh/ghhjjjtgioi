@@ -6,5 +6,6 @@
 -- อย่ากด ฟังชั่น auto พร้อมกด 
 -- ถ้า ไอดี โดนแบน จะไม่รับผิดชอบ -_- 
 -- ฟังชั่น God Mode ไม่ โดนแบน 
+-- ฟังก์ชั่น Rj Hop (อย่ากด เปลี่ยนไปใช้ ออก แล้วเข้าใหม่จะดีกว่า )
 -- สคริปต์ !
 loadstring(game:HttpGet("https://raw.githubusercontent.com/kickTh/fly/main/TP.lua.txt", true))()
